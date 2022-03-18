@@ -1,0 +1,3 @@
+tokenContractAddress=0x87a2B87e13c68d911EE378708F3D34f08F77960c
+
+Deployed on the rinkeby testnet

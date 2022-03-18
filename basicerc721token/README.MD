@@ -1,0 +1,3 @@
+contractAddress=0xbd25C7e344e5b60627Ac125E098e67Fd9ef28615
+
+Deployed on the ropsten testnet
